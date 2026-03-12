@@ -10,10 +10,6 @@
 
 ---
 
-<img width="1398" height="725" alt="DubTouch" src="https://github.com/user-attachments/assets/4fbfd537-7b42-4a4d-bf4e-594bb7183b1d" />
-
----
-
 ## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
 - **Virtual Analog Engine**: High-fidelity oscillators with multiple classic hardware-inspired presets.
