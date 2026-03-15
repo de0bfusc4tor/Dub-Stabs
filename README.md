@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/bcc1bfac-0bcb-4fd9-8b8c-268eb7b13e66
 ### 𝐒𝐭𝐚𝐧𝐝𝐚𝐥𝐨𝐧𝐞
 1. Download the latest `Dubstabs.app.zip`.
 2. Extract & Drag to your `Applications` folder.
-3. Open `Dubtouch`.
+3. Open `Dubstabs`.
 
 ### 𝐀𝐮𝐝𝐢𝐨 𝐔𝐧𝐢𝐭 (𝐀𝐔) 
 1. Download the `Dubstabs.component.zip` plugin.
