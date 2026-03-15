@@ -19,9 +19,8 @@ https://github.com/user-attachments/assets/bcc1bfac-0bcb-4fd9-8b8c-268eb7b13e66
 - **Virtual Analog Engine**: High-fidelity oscillators with multiple classic hardware-inspired presets.
 - **Advanced Modulation**: Triple LFO system targeting Filter Cutoff, Pitch, and Amplitude for evolving movement.
 - **Geometric Interface**: Minimalistic, dark-themed interface designed for focus and ergonomic studio control.
-- **Classic Synthesizers**: Juno-106, Prophet VS, DX7, MS-20 & Polysix.
+- **Classic Hardware Synthesizers**: Juno-106, Prophet VS, DX7, MS-20 & Polysix.
 - **"Sweet Spot" Default Parameters**: Default parameters set for instant Dub Techno.
-- **LFOs**: 3 LFOs for Filter, Pitch & Amp.
 - **Integrated Effects**: Built-in bitcrushing (Grit) and spatial delay (Space) for immediate sound shaping.
 - **Zero Dependencies**: Fully offline capable once installed.
 - **Multi-Language Support**: Interface available in English, Français, Русский, 日本語, and 한국어 with the keyboards layouts and keybindings respective to each language.
