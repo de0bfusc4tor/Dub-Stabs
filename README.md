@@ -107,5 +107,9 @@ Dubtouch includes five distinct models inspired by legendary synthesis:
 
 ---
 
+_This software and plugins are free. Don't forget to give it a ⭐ on Github if you liked the project._
+
+---
+
 <p align="center"><code>𝕯𝖊𝖔𝖇𝖋𝖚𝖘𝖈𝖆𝖙𝖊</code></p>
 <p align="center">2026</p>
