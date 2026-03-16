@@ -40,25 +40,25 @@
 ### 𝐒𝐭𝐚𝐧𝐝𝐚𝐥𝐨𝐧𝐞
 1. Download the latest [`DubStabs0.9.9.app.zip`](https://github.com/de0bfusc4tor/Dub-Stabs/releases/download/DubStabs0.9.9/DubStabs0.9.9.app.zip).
 2. Extract & Drag to your `Applications` folder.
-3. Open `Dubstabs`.
+3. Open `Dub Stabs`.
 
 ### 𝐀𝐮𝐝𝐢𝐨 𝐔𝐧𝐢𝐭 (𝐀𝐔) 
 1. Download the `Dubstabs.component.zip` plugin.
 2. Copy `Dubstabs.component` to your `Components` folder:
    - **AU**: `/Library/Audio/Plug-Ins/Components`
-3. Rescan plugins in your DAW and load `Dubtouch` onto a MIDI track.
+3. Rescan plugins in your DAW and load `Dub Stabs` onto a MIDI track.
 
 ### 𝐕𝐒𝐓𝟑
 1. Download the Dubtouch.vst3.zip plugin.
 2. Copy `Dubstabs.vst3` to your `VST3` folder:
    - **VST3**: `/Library/Audio/Plug-Ins/VST3`
-3. Rescan plugins in your DAW and load `Dubstabs` onto a MIDI track.
+3. Rescan plugins in your DAW and load `Dub Stabs` onto a MIDI track.
 
 ---
 
 ## 𝐏𝐫𝐞𝐬𝐞𝐭𝐬
 
-Dubtouch includes five distinct models inspired by legendary synthesis:
+**Dub Stabs** includes five distinct models inspired by legendary synthesis:
 
 - **Juno-106**: Classic warm, lush analog chorus and stable DCO-style waveforms.
 - **Prophet VS**: Digital vector synthesis with sharp, evolving textures.
