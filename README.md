@@ -38,7 +38,7 @@
 ## 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
 
 ### 𝐒𝐭𝐚𝐧𝐝𝐚𝐥𝐨𝐧𝐞
-1. Download the latest [`DubStabs0.9.9.app.zip`](https://github.com/de0bfusc4tor/Dub-Stabs/releases/download/DubStabs0.9.9/DubStabs0.9.9.app.zip).
+1. Download the latest [`DubStabs0.9.9.app.zip`](https://github.com/DeobfuscateMusic/Dub-Stabs/releases/download/DubStabs0.9.9/DubStabs0.9.9.app.zip).
 2. Extract & Drag to your `Applications` folder.
 3. Open `Dub Stabs`.
 
