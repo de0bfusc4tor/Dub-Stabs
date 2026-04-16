@@ -111,5 +111,6 @@ _This software and plugins are free. Don't forget to give it a ⭐ on Github if 
 
 ---
 
+<p align="center"><img width="227" height="198" alt="Logo Samurai Horse Round Small" src="https://github.com/user-attachments/assets/a6db506e-a5df-42c0-8c05-84bad12b0b6d" /></p>
 <p align="center"><code>𝕯𝖊𝖔𝖇𝖋𝖚𝖘𝖈𝖆𝖙𝖊</code></p>
 <p align="center">2026</p>
