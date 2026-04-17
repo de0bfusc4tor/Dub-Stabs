@@ -2,7 +2,7 @@
 
 > _Synthesizer for Dub Techno Chords & Stabs. Synthesizes minor-chords, resonant filtering and rhythmic echoes to create deep Dub Techno textures and melodies. Includes 5 classic hardwares synthesizers._
 
-![Version](https://img.shields.io/badge/Version-0.9.9-green?style=flat-square)
+![Version](https://img.shields.io/badge/Version-0.9.9-brightgreen?style=flat-square)
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Architecture-Universal%20Silicon%20%26%20Intel-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white)
 ![Format](https://img.shields.io/badge/Format-Standalone%20%7C%20AU%20%7C%20VST3-00CED1?style=flat-square)
@@ -111,6 +111,6 @@ _This software and plugins are free. Don't forget to give it a ⭐ on Github if 
 
 ---
 
-<p align="center"><img width="227" height="198" alt="Logo Samurai Horse Round Small" src="https://github.com/user-attachments/assets/a6db506e-a5df-42c0-8c05-84bad12b0b6d" /></p>
+<p align="center"><img width="91" height="78" alt="Logo_Deobfuscate_RoundXS" src="https://github.com/user-attachments/assets/5c8302e8-90a3-4a00-807c-db64a0188815" /></p>
 <p align="center"><code>𝕯𝖊𝖔𝖇𝖋𝖚𝖘𝖈𝖆𝖙𝖊</code></p>
 <p align="center">2026</p>
