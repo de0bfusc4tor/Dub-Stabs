@@ -98,17 +98,21 @@ _<p align="center">Synthesizer for Dub Techno Chords & Stabs. Includes 8 classic
 
 ### 𝐒𝐲𝐧𝐭𝐡 𝐏𝐚𝐫𝐚𝐦𝐞𝐭𝐞𝐫𝐬
 
-- **Pitch**: Adjusts the master tuning of the oscillators.
-- **Cutoff / Res**: Sculpt the frequency and resonance of the low-pass filter.
-- **Grit**: Dedicated bitcrusher and distortion stage for saturation.
-- **Decay**: Controls the amplitude envelope release time.
-- **Space**: Spatial delay for atmospheric dimension.
+| Parameter | Description |
+| :--- | :--- |
+| **Pitch** | Adjusts the master tuning of the oscillators. |
+| **Cutoff / Res** | Sculpt the frequency and resonance of the low-pass filter. |
+| **Grit** | Dedicated bitcrusher and distortion stage for saturation. |
+| **Decay** | Controls the amplitude envelope release time. |
+| **Space** | Spatial delay for atmospheric dimension. |
 
 ### 𝐌𝐨𝐝𝐮𝐥𝐚𝐭𝐢𝐨𝐧 (𝐋𝐅𝐎𝐬)
 
-- **LFO 1 (Filter)**: Modulates the filter cutoff for rhythmic movement.
-- **LFO 2 (Pitch)**: Adds vibrato or extreme pitch sweeps.
-- **LFO 3 (Amp)**: Modulates output volume for tremolo or gated effects.
+| Parameter | Description |
+| :--- | :--- |
+| **LFO 1 (Filter)** | Modulates the filter cutoff for rhythmic movement. |
+| **LFO 2 (Pitch)** | Adds vibrato or extreme pitch sweeps. |
+| **LFO 3 (Amp)** | Modulates output volume for tremolo or gated effects. |
 
 ---
 
