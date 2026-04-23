@@ -1,8 +1,10 @@
-# 𝕯𝖚𝖇 𝕾𝖙𝖆𝖇𝖘
+<p align="center"><img width="397" height="88" alt="Dub Stabs Banner" src="https://github.com/user-attachments/assets/7d191e7f-7398-459e-9dcb-e9f0186a59ac" /></p>
 
-> _Synthesizer for Dub Techno Chords & Stabs. Synthesizes minor-chords, resonant filtering and rhythmic echoes to create deep Dub Techno textures and melodies. Includes 5 classic hardwares synthesizers._
+_<p align="center">Synthesizer for Dub Techno Chords & Stabs. Includes 8 classic hardwares synthesizers.</p>_
 
-![Version](https://img.shields.io/badge/Version-0.9.9-brightgreen?style=flat-square)
+---
+
+![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen?style=flat-square)
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Architecture-Universal%20Silicon%20%26%20Intel-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white)
 ![Format](https://img.shields.io/badge/Format-Standalone%20%7C%20AU%20%7C%20VST3-00CED1?style=flat-square)
@@ -10,7 +12,7 @@
 
 ---
 
-<img width="1191" height="789" alt="DubStabs099Preview" src="https://github.com/user-attachments/assets/9798ef77-ae75-4e8c-affc-0577f59ed315" />
+<img width="1440" height="900" alt="Dub Stabs 1 0 0" src="https://github.com/user-attachments/assets/bf1c2bee-bd38-4854-bf90-c83efe4db195" />
 
 ---
 
@@ -19,7 +21,7 @@
 - **Virtual Analog Engine**: High-fidelity oscillators with multiple classic hardware-inspired presets.
 - **Advanced Modulation**: Triple LFO system targeting Filter Cutoff, Pitch, and Amplitude for evolving movement.
 - **Geometric Interface**: Minimalistic, dark-themed interface designed for focus and ergonomic studio control.
-- **Classic Hardware Synthesizers**: Juno-106, Prophet VS, DX7, MS-20 & Polysix.
+- **Classic Hardware Synthesizers**: Juno-106, Prophet VS, DX7, MS-20, Polysix, Alpha Juno-1, Blofeld & ESQ1.
 - **"Sweet Spot" Default Parameters**: Default parameters set for instant Dub Techno.
 - **Integrated Effects**: Built-in bitcrushing (Grit) and spatial delay (Space) for immediate sound shaping.
 - **Zero Dependencies**: Fully offline capable once installed.
@@ -38,7 +40,7 @@
 ## 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
 
 ### 𝐒𝐭𝐚𝐧𝐝𝐚𝐥𝐨𝐧𝐞
-1. Download the latest [`DubStabs0.9.9.app.zip`](https://github.com/DeobfuscateMusic/Dub-Stabs/releases/download/DubStabs0.9.9/DubStabs0.9.9.app.zip).
+1. Download the latest [`Dub.Stabs.zip`](https://github.com/DeobfuscateMusic/Dub-Stabs/releases/download/Dub_Stabs_1.0.0/Dub.Stabs.zip).
 2. Extract & Drag to your `Applications` folder.
 3. Open `Dub Stabs`.
 
