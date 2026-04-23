@@ -63,10 +63,13 @@ _<p align="center">Synthesizer for Dub Techno Chords & Stabs. Includes 8 classic
 **Dub Stabs** includes five distinct models inspired by legendary synthesis:
 
 - **Juno-106**: Classic warm, lush analog chorus and stable DCO-style waveforms.
-- **Prophet VS**: Digital vector synthesis with sharp, evolving textures.
+- **Prophet VS**: Digital vector synthesis with sharp and evolving textures.
 - **DX7**: Precision FM synthesis for metallic and crystalline digital tones.
 - **MS-20**: Aggressive, gritty dual-oscillator setup with raw analog character.
 - **Polysix**: Rich, detuned sawtooth stacks for deep vintage pads.
+- **Alpha Juno-1**: Multi-waveform oscillators and flexible envelopes for plucky" stabs and deep sub-basses.
+- **Blofeld**: Versatile wavetable synthesis with granular textures for complex soundscapes.
+- **ESQ-1**: Gritty 8-bit digital oscillators paired with warm analog filters for lo-fi hybrid chords.
 
 ---
 
