@@ -33,7 +33,7 @@ _<p align="center">Synthesizers for Dub Techno Chords & Stabs. Includes 8 classi
 
 - **macOS**: 14.0 (Sonoma), 15.0 (Sequoia), or 16.0 (Tahoe).
 - **Architecture**: Intel & Apple Silicon.
-- **DAW**: Ableton Live 12+
+- **DAW**: Ableton Live 11+, Ableton Live 12+, Logic Pro & Reason with [BlackHole](https://github.com/ExistentialAudio/BlackHole) driver.
 
 ---
 
@@ -44,13 +44,13 @@ _<p align="center">Synthesizers for Dub Techno Chords & Stabs. Includes 8 classi
 2. Extract & Drag to your `Applications` folder.
 3. Open `Dub Stabs`.
 
-### 𝐀𝐮𝐝𝐢𝐨 𝐔𝐧𝐢𝐭 (𝐀𝐔) 
+### 𝐀𝐮𝐝𝐢𝐨 𝐔𝐧𝐢𝐭 (𝐀𝐔) (𝐔𝐧𝐝𝐞𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭)
 1. Download the `Dubstabs.component.zip` plugin.
 2. Copy `Dubstabs.component` to your `Components` folder:
    - **AU**: `/Library/Audio/Plug-Ins/Components`
 3. Rescan plugins in your DAW and load `Dub Stabs` onto a MIDI track.
 
-### 𝐕𝐒𝐓𝟑
+### 𝐕𝐒𝐓𝟑 (𝐔𝐧𝐝𝐞𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭)
 1. Download the `Dubstabs.vst3.zip` plugin.
 2. Copy `Dubstabs.vst3` to your `VST3` folder:
    - **VST3**: `/Library/Audio/Plug-Ins/VST3`
